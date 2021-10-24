@@ -35,8 +35,13 @@ Preprocessing Data for a Neural Network Mode
   - add 1 more hidden layer.
   - while training the model, we changed epochs several times. (epochs=100,epochs=50,epochs=200)
   - we used RELU and also Tanh as the activation function for the hidden layers. As our output is a binary classification, Sigmoid is used on the output layer.For the compilation, the optimizer is adam and the loss function is binary_crossentropy.
-## Best Result 
+## Initial Result
+<img width="851" alt="image" src="https://user-images.githubusercontent.com/85265816/138615587-cb4b00f6-6034-4675-9565-c3639d06380d.png">
 
+## Best Result 
+<img width="618" alt="image" src="https://user-images.githubusercontent.com/85265816/138615593-7df1cc29-461c-4e6a-a34a-f5d99a9b3102.png">
+
+<img width="698" alt="image" src="https://user-images.githubusercontent.com/85265816/138615596-4a8ad889-a234-4f6d-8879-0b0a8506486d.png">
 
 
 ## Summary
