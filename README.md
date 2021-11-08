@@ -47,8 +47,8 @@ Preprocessing Data for a Neural Network Mode
 ## Summary
 Our deep learning machinese model accuracy improved from 52% to 75%.
 
-At first sevral attempt by adding extra input values, and hidden layer and extra Epoch did help to bring the accuracy from 52% to 69%. ButIn return, we had a very high loss rate more than 1.
+At first sevral attempt by adding extra input values, and hidden layer and extra Epoch did help to bring the accuracy from 52% to 69%. However, we had a very high loss rate more than 1.0.
 
-However, after we changed the activation function from 'RELU' to 'TANH' in the second hidden layer. The accuracy result changed dramatically to 75%, with a model lose rate of 62%.
+We changed the activation function from 'RELU' to 'TANH' in the second hidden layer. The accuracy result changed dramatically to 75%, with a model lose rate of 62%.
 
 We can say that the deep learning neural network model did reach the target of 75% accuracy. However, we still can do some adjustment or try to compare with other supervised machine learning model such as the Random Forest Classifier to generate a classified output.
